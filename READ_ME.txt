@@ -1,0 +1,3 @@
+This project uses streamlit to quickly create a dashboard that can ultimately display the stock prices. These prices are download from yahoo finance in different periods and stored in a data frame.
+
+Some of the periods are not displaying data properly, The data obtained from yahoo finance seems to only display from 4 to 8 observations per day in the '1 week' and '1 month' time intervals. Please, get in touch if you know how to deal with it.
